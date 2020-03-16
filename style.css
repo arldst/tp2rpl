@@ -4,9 +4,17 @@
 
 .wrapper {
     margin-top: 30%;
-    margin-bottom : 200%;
+    margin-bottom : 120%;
 }
 
-.warning {
+.warning1 {
+    display: none;
+}
+
+.warning2 {
+    display: none;
+}
+
+.warning3 {
     display: none;
 }
